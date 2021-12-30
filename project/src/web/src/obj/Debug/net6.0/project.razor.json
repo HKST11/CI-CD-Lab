@@ -1,5 +1,5 @@
 {
-  "FilePath": "/Users/harshitkumar/Documents/DevOps Training/Project2/project-cicd/project/src/web/src/Widgetario.Web.csproj",
+  "FilePath": "/Users/harshitkumar/Documents/DevOps Training/Project2/CI-CD-Lab/project/src/web/src/Widgetario.Web.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "6.0",
@@ -16298,33 +16298,33 @@
   "RootNamespace": "Widgetario.Web",
   "Documents": [
     {
-      "FilePath": "/Users/harshitkumar/Documents/DevOps Training/Project2/project-cicd/project/src/web/src/Views/Shared/_Layout.cshtml",
+      "FilePath": "/Users/harshitkumar/Documents/DevOps Training/Project2/CI-CD-Lab/project/src/web/src/Views/Shared/_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/harshitkumar/Documents/DevOps Training/Project2/CI-CD-Lab/project/src/web/src/Views/Shared/_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/Users/harshitkumar/Documents/DevOps Training/Project2/project-cicd/project/src/web/src/Views/_ViewStart.cshtml",
-      "TargetPath": "Views\\_ViewStart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/harshitkumar/Documents/DevOps Training/Project2/project-cicd/project/src/web/src/Views/Home/Index.cshtml",
+      "FilePath": "/Users/harshitkumar/Documents/DevOps Training/Project2/CI-CD-Lab/project/src/web/src/Views/Home/Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/Users/harshitkumar/Documents/DevOps Training/Project2/project-cicd/project/src/web/src/Views/Shared/Error.cshtml",
-      "TargetPath": "Views\\Shared\\Error.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/harshitkumar/Documents/DevOps Training/Project2/project-cicd/project/src/web/src/Views/_ViewImports.cshtml",
+      "FilePath": "/Users/harshitkumar/Documents/DevOps Training/Project2/CI-CD-Lab/project/src/web/src/Views/_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/Users/harshitkumar/Documents/DevOps Training/Project2/project-cicd/project/src/web/src/Views/Shared/_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FilePath": "/Users/harshitkumar/Documents/DevOps Training/Project2/CI-CD-Lab/project/src/web/src/Views/Shared/Error.cshtml",
+      "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/harshitkumar/Documents/DevOps Training/Project2/CI-CD-Lab/project/src/web/src/Views/_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
       "FileKind": "mvc"
     }
   ],
